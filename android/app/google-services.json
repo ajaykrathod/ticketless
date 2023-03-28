@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "421885558820",
+    "project_id": "less-tick",
+    "storage_bucket": "less-tick.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421885558820:android:441957161b91148a1118b1",
+        "android_client_info": {
+          "package_name": "com.ticketless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421885558820-n70sif309pi62kl4ermbqesman594e6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ticketless",
+            "certificate_hash": "09fece90855ccf2c0b7466e950400aa829090c25"
+          }
+        },
+        {
+          "client_id": "421885558820-kcqbllkcd6nc8780farosg025fjpn4r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ_TcQ_lxssWNDO-90nJnSHPHq9gGCEl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421885558820-kcqbllkcd6nc8780farosg025fjpn4r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
